@@ -12,7 +12,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <a href="https://www.linkedin.com/in/richard-adule/"><img align="left" src="https://raw.githubusercontent.com/BigRichi/BigRichi/main/images/linkedin.svg" alt="Richard Adule | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/big__richi/"><img align="left" src="https://raw.githubusercontent.com/BigRichi/BigRichi/main/images/instagram.svg" alt="Richard Adule | Instagram" width="21px"/></a>
-<a href="https://twitter.com/BigRichi2"><img align="left" src="https://raw.githubusercontent.com/BigRichi/BigRichi/main/images/medium.svg" alt="Richard Adule | Medium" width="21px"/></a>
+<a href="https://twitter.com/BigRichi2"><img align="left" src="https://raw.githubusercontent.com/BigRichi/BigRichi/main/images/twitter.svg" alt="Richard Adule | Twitter" width="21px"/></a>
 </br>
 
 ## 💼 Technical Skills
