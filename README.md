@@ -47,5 +47,5 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigRichi&layout=compact)](https://github.com/BigRichi)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=BigRichi.BigRichi)](https://www.yushi.dev/)
+<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=BigRichi.BigRichi)](https://www.yushi.dev/) -->
 
