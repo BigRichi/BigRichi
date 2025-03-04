@@ -5,6 +5,7 @@
 I’m an experienced Full-Stack Developer with a strong foundation in user-centered design and development. My background as a Business Analyst helps me align tech solutions with strategic objectives, ensuring software is both impactful and user-friendly. I love the entire process of building applications—from brainstorming and design to coding, testing, and deployment.
 
 🌱Currently Pursuing: AWS certification to expand my cloud computing and deployment expertise.
+<br/>
 ⚙️ Passionate About:
 Designing intuitive, efficient backends (Node.js, Ruby on Rails, Python)
 Translating data insights into actionable improvements (SQL, Power BI, Tableau)
