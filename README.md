@@ -6,10 +6,11 @@ I’m an experienced Full-Stack Developer with a strong foundation in user-cente
 
 🌱Currently Pursuing: AWS certification to expand my cloud computing and deployment expertise.
 <br/>
-⚙️ Passionate About:
+⚙️ Passionate About:<br/>
 Designing intuitive, efficient backends (Node.js, Ruby on Rails, Python)
 Translating data insights into actionable improvements (SQL, Power BI, Tableau)
 Mentoring teammates and sharing best practices to drive high-quality code
+<br/>
 💬 Reach Out: Always open to questions, collaborations, or feedback—just drop me a message!
 
 ### 🤝 Connect with me:
